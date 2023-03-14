@@ -5,14 +5,9 @@ body {
   font-family: Outfit, sans-serif;
   background-color: #d6e2ef;
   font-size: 15px;
-  height: 97vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
-}
-main {
-  display: flex;
-  width: 100%;
-  height: 100%;
 }
 .card {
   background-color: #fff;
