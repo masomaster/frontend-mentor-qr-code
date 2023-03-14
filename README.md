@@ -44,3 +44,4 @@ I collected my resources (files, fonts, etc), sketched out the HTML files (divs 
 ## Acknowledgments
 
 Thanks to Frontend Mentor for making great practice resources!
+Thanks also to David Kobrin for spotting minor differences to fix!
