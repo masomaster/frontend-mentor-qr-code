@@ -2,8 +2,8 @@
   box-sizing: border-box;
 }
 body {
-  font-family: "Outfit", sans-serif;
-  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit, sans-serif;
+  background-color: #d6e2ef;
   font-size: 15px;
   height: 97vh;
   display: flex;
@@ -15,7 +15,7 @@ main {
   height: 100%;
 }
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: #fff;
   margin: auto;
   width: 325px;
   padding: 15px;
@@ -38,7 +38,7 @@ main {
   padding: 18px 0 8px;
 }
 .subtitle {
-  color: hsl(220, 15%, 55%);
+  color: #7b869d;
   font-weight: 400;
   font-size: 16px;
   padding: 8px 0 24px;
@@ -49,7 +49,5 @@ main {
   margin-top: auto;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
-}
-@media screen and (min-width: 1440px) {
+  color: #3d51a2;
 }
